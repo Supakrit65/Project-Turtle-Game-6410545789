@@ -1,0 +1,18 @@
+{
+    "dsf": {
+        "color": "green",
+        "score": 100
+    },
+    "Tan": {
+        "color": "cyan",
+        "score": 700
+    },
+    "Greg": {
+        "color": "pink",
+        "score": 1000
+    },
+    "gr": {
+        "color": "green",
+        "score": 200
+    }
+}
