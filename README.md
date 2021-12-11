@@ -1,4 +1,4 @@
-# all the source code are in project source code forder
+#disclaimer! all the source code are in 'project source code forder'
 
 # Feast of Turtle
 
